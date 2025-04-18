@@ -24,10 +24,24 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+# Real-Time Chat App – Backend
 
-## Installation
+This is the backend for a real-time messaging application, built using **NestJS**.
 
+## ⚙️ Features
+
+- Modular architecture using NestJS
+- API-ready out of the box
+- Can be integrated with various frontend frameworks like **React**, **Next.js**, **Vue**, etc.
+
+## 🛠️ Upcoming Features
+
+- User authentication (JWT-based)
+- Chat rooms and direct messaging
+- WebSocket message persistence
+- Redis integration for scaling
+
+## 🚀 Getting Started
 ```bash
 $ pnpm install
 ```
